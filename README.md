@@ -26,3 +26,5 @@ Interface Guide:
 ### Note:
 - The represented image correspond to only the Size Class option, which will be blank if the "Other" choice is selected.
 - If there is no vehicle in the database with the same Size Class and Drive Configuration, a message "This model configuration does not exist in the database" will be displayed instead of the mileage.  Other than that, fuel efficiency is predicted using linear regression models.
+- Application website: https://vnpham.shinyapps.io/DevelopingDataProduct/
+- Application presentation: http://rpubs.com/vnpham/33768
